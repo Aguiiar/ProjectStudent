@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\projectStudent.csproj|c:\\users\\guilherme\\desktop\\projectstudent-emerson\\student\\student\\pages\\studentmanagement.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\projectStudent.csproj|solutionrelative:student\\pages\\studentmanagement.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|c:\\users\\guilherme\\desktop\\projectstudent-emerson\\student\\student\\pages\\studentmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|solutionrelative:student\\pages\\studentmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|c:\\users\\guilherme\\desktop\\projectstudent-emerson\\student\\student\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|solutionrelative:student\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|c:\\users\\guilherme\\desktop\\projectstudent-emerson\\student\\student\\models\\apicourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|solutionrelative:student\\models\\apicourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\projectStudent.csproj|c:\\users\\guilherme\\desktop\\projectstudent-emerson\\student\\student\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\projectStudent.csproj|solutionrelative:student\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|c:\\users\\guilherme\\desktop\\projectstudent-emerson\\student\\student\\pages\\studentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|Student\\Student.csproj|solutionrelative:student\\pages\\studentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Models\\ApiCourse.cs",
+              "RelativeDocumentMoniker": "Student\\Models\\ApiCourse.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Models\\ApiCourse.cs",
+              "RelativeToolTip": "Student\\Models\\ApiCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:36:51.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Student\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Models\\Student.cs*",
+              "RelativeToolTip": "Student\\Models\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:35:44.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Student\\Data\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Data\\StudentContext.cs*",
+              "RelativeToolTip": "Student\\Data\\StudentContext.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:43:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Pages\\StudentManagement.aspx.cs",
+              "RelativeDocumentMoniker": "Student\\Pages\\StudentManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Pages\\StudentManagement.aspx.cs",
+              "RelativeToolTip": "Student\\Pages\\StudentManagement.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:41:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManagement.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Pages\\StudentManagement.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Student\\Pages\\StudentManagement.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Pages\\StudentManagement.aspx.designer.cs",
+              "RelativeToolTip": "Student\\Pages\\StudentManagement.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:50:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Pages\\StudentManagement.aspx",
+              "RelativeDocumentMoniker": "Student\\Pages\\StudentManagement.aspx",
+              "ToolTip": "C:\\Users\\Guilherme\\Desktop\\ProjectStudent-Emerson\\Student\\Student\\Pages\\StudentManagement.aspx",
+              "RelativeToolTip": "Student\\Pages\\StudentManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-04T20:40:50.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
