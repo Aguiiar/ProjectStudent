@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\139500\\Music\\projectStudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|projectStudent\\projectStudent.csproj|c:\\users\\139500\\music\\projectstudent\\projectstudent\\pages\\studentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|projectStudent\\projectStudent.csproj|solutionrelative:projectstudent\\pages\\studentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\139500\\Music\\projectStudent\\projectStudent\\Pages\\StudentManagement.aspx",
+              "RelativeDocumentMoniker": "projectStudent\\Pages\\StudentManagement.aspx",
+              "ToolTip": "C:\\Users\\139500\\Music\\projectStudent\\projectStudent\\Pages\\StudentManagement.aspx",
+              "RelativeToolTip": "projectStudent\\Pages\\StudentManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-22T17:55:48.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
