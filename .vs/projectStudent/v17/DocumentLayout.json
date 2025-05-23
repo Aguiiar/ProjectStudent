@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\139500\\Music\\projectStudent\\",
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\Music\\teste\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|projectStudent\\projectStudent.csproj|c:\\users\\139500\\music\\projectstudent\\projectstudent\\pages\\studentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|projectStudent\\projectStudent.csproj|c:\\users\\guilherme\\music\\teste\\projectstudent\\pages\\studentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|projectStudent\\projectStudent.csproj|solutionrelative:projectstudent\\pages\\studentmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|projectStudent\\projectStudent.csproj|c:\\users\\guilherme\\music\\teste\\projectstudent\\services\\autocompleteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E65F534-00BD-4CF1-8C02-2B3F558953EC}|projectStudent\\projectStudent.csproj|solutionrelative:projectstudent\\services\\autocompleteservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +18,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoCompleteService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Music\\teste\\projectStudent\\Services\\AutoCompleteService.asmx.cs",
+              "RelativeDocumentMoniker": "projectStudent\\Services\\AutoCompleteService.asmx.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\Music\\teste\\projectStudent\\Services\\AutoCompleteService.asmx.cs",
+              "RelativeToolTip": "projectStudent\\Services\\AutoCompleteService.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T02:27:13.981Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentManagement.aspx",
-              "DocumentMoniker": "C:\\Users\\139500\\Music\\projectStudent\\projectStudent\\Pages\\StudentManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\Music\\teste\\projectStudent\\Pages\\StudentManagement.aspx",
               "RelativeDocumentMoniker": "projectStudent\\Pages\\StudentManagement.aspx",
-              "ToolTip": "C:\\Users\\139500\\Music\\projectStudent\\projectStudent\\Pages\\StudentManagement.aspx",
+              "ToolTip": "C:\\Users\\Guilherme\\Music\\teste\\projectStudent\\Pages\\StudentManagement.aspx",
               "RelativeToolTip": "projectStudent\\Pages\\StudentManagement.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",

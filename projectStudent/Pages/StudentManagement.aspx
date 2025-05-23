@@ -27,11 +27,13 @@
     </style>
 </head>
 <body>
-    <form id="form1" runat="server" class="row g-3 p-3 me-0">
+    <div class="col-12">
+        <h1 class="p-3 mb-2 bg-primary text-white">Cadastrar Aluno</h1>
+    </div>
+    <form id="form1" runat="server" class="row gx-3 px-3 me-0">
 
         <asp:ScriptManager ID="ScriptManager1" runat="server" />
 
-        <h1 class="p-3 mb-2 bg-primary text-white">Cadastrar Aluno</h1>
         <div class="col-auto">
             <asp:Label Text="Nome:" runat="server" AssociatedControlID="txtName" />
             <asp:TextBox ID="txtName" runat="server" CssClass="form-control" />
@@ -85,7 +87,7 @@
             <ajaxToolkit:AutoCompleteExtender ID="autoCompleteSearch" runat="server" TargetControlID="txtSearch"
                 ServicePath="~/Services/AutoCompleteService.asmx" ServiceMethod="GetStudentsName" MinimumPrefixLength="1" CompletionSetCount="5" EnableCaching="true" CompletionInterval="100" />
 
-            <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="btn btn-primary mt-2" OnClick="SearchStudents" />
+            <asp:Button ID="btnSearch" runat="server" Text="Buscar" CssClass="btn btn-primary w-25 mt-2" OnClick="SearchStudents" />
 
         </div>
     </form>
